@@ -1332,6 +1332,10 @@ button:focus {
     width: 60px;
     font-size: 14px;
   }
+  .show
+  {
+    width:100%;
+  }
 }
 
 
